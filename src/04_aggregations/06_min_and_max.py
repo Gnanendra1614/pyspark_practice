@@ -1,3 +1,4 @@
+# Practice: Using min and max aggregations with PySpark
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import min, max
 
