@@ -13,3 +13,4 @@ df.printSchema()
 df.show(truncate=False)
 
 spark.stop()
+# Practice: Reading Parquet files with PySpark
