@@ -1,3 +1,4 @@
+# Practice: Using inner join with PySpark
 from pyspark.sql import SparkSession
 
 
