@@ -1,3 +1,4 @@
+# Practice: Implementing SCD Type 3 with PySpark
 from pyspark.sql import SparkSession
 from pyspark.sql import functions as F
 
