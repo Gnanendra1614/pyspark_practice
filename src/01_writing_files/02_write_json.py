@@ -1,3 +1,4 @@
+# Practice: Writing JSON files with PySpark
 from pyspark.sql import SparkSession
 
 spark = (
