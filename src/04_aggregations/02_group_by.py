@@ -1,3 +1,4 @@
+# Practice: Using groupBy with PySpark
 from pyspark.sql import SparkSession
 
 
