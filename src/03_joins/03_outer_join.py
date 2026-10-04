@@ -1,3 +1,4 @@
+# Practice: Using outer join with PySpark
 from pyspark.sql import SparkSession
 
 
