@@ -1,3 +1,4 @@
+# Practice: Using groupBy with multiple columns in PySpark
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import count, sum
 
