@@ -1,3 +1,4 @@
+# Practice: Using semi join with PySpark
 from pyspark.sql import SparkSession
 
 
