@@ -1,3 +1,4 @@
+# Practice: Using aggregation functions with PySpark
 from pyspark.sql.functions import (
     count,
     countDistinct,
