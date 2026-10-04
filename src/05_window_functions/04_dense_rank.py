@@ -1,3 +1,4 @@
+# Practice: Using dense_rank with PySpark
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window
 from pyspark.sql.functions import dense_rank, col
