@@ -1,3 +1,4 @@
+# Practice: Implementing SCD Type 2 with PySpark
 from pyspark.sql import SparkSession
 
 spark = (
