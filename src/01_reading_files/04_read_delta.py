@@ -1,3 +1,4 @@
+# Practice: Reading Delta files with PySpark
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName("ReadDelta").master("local[*]").getOrCreate()
