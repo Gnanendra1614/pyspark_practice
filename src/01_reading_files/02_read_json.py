@@ -14,3 +14,4 @@ df.printSchema()
 df.show(truncate=False)
 
 spark.stop()
+# Practice: Reading JSON files with PySpark
