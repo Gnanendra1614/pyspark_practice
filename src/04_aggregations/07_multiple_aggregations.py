@@ -1,3 +1,4 @@
+# Practice: Using multiple aggregations with PySpark
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
     count,
