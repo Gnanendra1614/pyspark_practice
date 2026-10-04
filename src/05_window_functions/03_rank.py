@@ -1,3 +1,4 @@
+# Practice: Using rank with PySpark
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window
 from pyspark.sql.functions import rank, col
