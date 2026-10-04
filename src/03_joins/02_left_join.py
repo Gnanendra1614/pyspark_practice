@@ -1,3 +1,4 @@
+# Practice: Using left join with PySpark
 from pyspark.sql import SparkSession
 
 
