@@ -1,3 +1,4 @@
+# Practice: Using anti join with PySpark
 from pyspark.sql import SparkSession
 
 
